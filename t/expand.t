@@ -1,5 +1,7 @@
+use strict;
 use Test::More qw/no_plan/;
 use FindBin::libs;
+
 use Data::Dumper qw/Dumper/;
 
 use WebService::Bitly;
